@@ -1,0 +1,6 @@
+[2024-10-30 10:31:27] Client 1: Hallo sever
+
+[2024-10-30 10:31:34] Server to Client 1: Hallo Client
+
+[2024-10-30 10:31:43] Client 1: haXin chao anh iu
+
