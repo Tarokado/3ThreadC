@@ -1,0 +1,10 @@
+Thread 2: Data from iteration 1
+Thread 1: Data from iteration 1
+Thread 2: Data from iteration 2
+Thread 1: Data from iteration 2
+Thread 2: Data from iteration 3
+Thread 1: Data from iteration 3
+Thread 2: Data from iteration 4
+Thread 1: Data from iteration 4
+Thread 1: Data from iteration 5
+Thread 2: Data from iteration 5
